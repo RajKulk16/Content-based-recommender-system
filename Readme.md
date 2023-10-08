@@ -38,6 +38,7 @@ The project is implemented in Python and utilizes various libraries and techniqu
 ## Running the Web Application
 
 To run the Streamlit web application, make sure you have the required libraries installed and execute the `app.py` file. The application will launch in your web browser, allowing you to explore movie recommendations interactively.
+ - Command : streamlit run app.py
 
 ## Project Screenshot
 
