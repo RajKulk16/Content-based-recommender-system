@@ -8,7 +8,9 @@ The goal of this project is to predict which movies a user might like based on s
 
 ## Dataset
 
-The project uses a dataset sourced from [The Movie Database (TMDb)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), which contains information about thousands of movies. This dataset includes details such as movie titles, genres, keywords, cast, crew, and overviews.
+The project uses a dataset sourced from [The Movie Database (TMDb)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), is a collection of data on over 5000 movies, including the plot, cast, crew, budget, and revenues. The dataset is derived from The Movie Database (TMDb).
+ - The dataset contains data on over 5000 movies, released between 1976 and 2022.
+ - The dataset includes information on the plot, cast, crew, budget, and revenues of each movie.
 
 ## Implementation Details
 
