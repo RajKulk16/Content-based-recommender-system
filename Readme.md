@@ -37,8 +37,10 @@ The project is implemented in Python and utilizes various libraries and techniqu
 
 To run the Streamlit web application, make sure you have the required libraries installed and execute the `app.py` file. The application will launch in your web browser, allowing you to explore movie recommendations interactively.
 
-This content-based movie recommender system, along with the Streamlit application, is a valuable tool for movie enthusiasts and platforms looking to provide personalized movie recommendations to users based on their preferences.
+## Project Screenshot
 
----
+![image](https://github.com/RajKulk16/Content-based-recommender-system/assets/74099005/78b63790-0296-4917-9366-442f299797a9)
+
+--
 
 **Note**: 'cosine_pickle.pkl' is not included in the initial commit. To make it work, run code blocks in jupyter and then run streamlit (app.py)
