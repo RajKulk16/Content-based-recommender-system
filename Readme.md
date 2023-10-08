@@ -4,11 +4,11 @@ This Python project implements a content-based movie recommendation system. The 
 
 ## Overview
 
-The goal of this project is to predict which movies a user might like based on their past interactions with movies. It uses a content-based recommendation approach, which means it recommends movies similar to those the user has already shown interest in. The similarity between movies is calculated based on their genres, keywords, cast, and crew.
+The goal of this project is to predict which movies a user might like based on similarities with other movies. It uses a content-based recommendation approach, which means it recommends movies to the users according to the 'liking'/similarity of the movies the user has searched. The similarity between movies is calculated based on their genres, keywords, cast, and crew.
 
 ## Dataset
 
-The project uses a dataset sourced from [The Movie Database (TMDb)](https://www.themoviedb.org/), which contains information about thousands of movies. This dataset includes details such as movie titles, genres, keywords, cast, crew, and overviews.
+The project uses a dataset sourced from [The Movie Database (TMDb)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), which contains information about thousands of movies. This dataset includes details such as movie titles, genres, keywords, cast, crew, and overviews.
 
 ## Implementation Details
 
@@ -41,4 +41,4 @@ This content-based movie recommender system, along with the Streamlit applicatio
 
 ---
 
-**Note**: 'cosine_pickle.pkl' is not included in the initial commit. To make it work, run jupyter and then run streamlit (app.py)
+**Note**: 'cosine_pickle.pkl' is not included in the initial commit. To make it work, run code blocks in jupyter and then run streamlit (app.py)
